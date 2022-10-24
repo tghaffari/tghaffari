@@ -4,7 +4,7 @@
 
 <img align='right' src='https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif' width='400'>
 
-- 🔭 I’m currently working on [Bookworm](https://bookworm.tarraghaffari.net/)
+- 🔭 I’m currently working on [BookWorm](https://bookworm.tarraghaffari.net/)
 
 - 🌱 I’m currently learning **Python, Flask, and TypeScript**
 
