@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [BookWorm](https://bookworm.tarraghaffari.net/)
 
-- 🌱 I’m currently learning **Python, Flask, and TypeScript**
+- 🌱 I’m currently learning **TypeScript**
 
 - 💬 Ask me about **anything!**
 
