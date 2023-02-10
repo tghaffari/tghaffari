@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Tarra</h1>
-<h3 align="center">A Full Stack Software Engineer from SoCal</h3>
+<h3 align="center">A Full Stack Software Engineer</h3>
 <p> I'm a full stack software engineer that enjoys building web applications and problem solving. I love learning new things and am currently in the process of learning new languages! When I'm not immersed in code, you can find me painting :art:, reading a book :books:, or at a concert :notes:! </p>
 
 <img align='right' src='https://res.cloudinary.com/practicaldev/image/fetch/s--2bZIjPGC--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/i/d4tvukbt5mra37cvwklk.gif' width='400'>
